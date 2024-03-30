@@ -1,0 +1,13 @@
+{
+    "en":{
+        "title": " Battleship",
+        "description": " Protect your ships against enemy ships and sink enemy ships.",
+        "longDescription": " Battleship game is designed as a console application to reinforce the use of functions and data structures such as lists, dictionaries, sets, etc. in Python. Actually, it is not exactly a game, we can say more of a console application. According to the data read from the files where the moves and ship placements are, the game is played and the results are printed on the screen."
+    },
+    "tr":{
+        "title": "Amiral Battı",
+        "description": "Gemilerini düşmanın gemilerine karşı koru ve düşman gemilerini batır.",
+        "longDescription": "Amiral Battı oyunu pythonda fonksiyon kullanımı ve liste, sözlük, kümeler vb. veri yapılarını pekiştirmek amaçlı bir konsol uygualması olarak tasarlandı. Aslında tam olarak bir oyun değil, daha çok konsol uygulaması diyebiliriz. Hamlelerin ve gemi yerleşimlerinin olduğu dosyalardan okunan verilere görün oyun bhamle hamle oynanıp sonuçlar ekrana yazdırılıyor."
+    },
+    "tags":["game", "consoleApp","python"]
+}
